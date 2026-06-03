@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: system-ui, sans-serif;
+	padding: 2rem;
+	background: #f8fafc;
+	color: #0f172a;
+}
+
+.state {
+	font-size: 1.1rem;
+}
+
+[hidden] {
+	display: none !important;
+}
+
+#data-output {
+	margin-top: 1rem;
+	padding: 1rem;
+	background: #fff;
+	border-radius: 8px;
+	border: 1px solid #e2e8f0;
+}
